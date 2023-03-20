@@ -1,0 +1,12 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_parsejsonlogicapp_name": {
+            "value": null
+        },
+        "serverfarms_ASP_learnd546c96a57fb47c4b20c4bd542_a7f5_externalid": {
+            "value": null
+        }
+    }
+}
